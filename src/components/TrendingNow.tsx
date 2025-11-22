@@ -1,6 +1,7 @@
 
 import MovieList from "./MovieList";
 
+import MOVIE_DATA from "../data/mockdata.json";
 
 const TrendingNow = () => {
     return (
